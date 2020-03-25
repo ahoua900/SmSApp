@@ -1,0 +1,32 @@
+Forgot.xaml
+
+<StackLayout Spacing="25" Padding="20">
+            <ImageButton Source="fleche" Aspect="AspectFit" HeightRequest="30" WidthRequest="30" HorizontalOptions="Start" Clicked="ImageButton_Clicked"/>
+
+            <Label Text="Forgot Password" FontSize="25" FontAttributes="Bold" TextColor="White" FontFamily="serif"/>
+            <Label Text="Please enter your email to receive a link to create a new password " 
+                   HorizontalOptions="Start" WidthRequest="250" FontSize="16" TextColor="Gray" FontFamily="serif"/>
+            <Frame BackgroundColor="#505460" CornerRadius="50" HeightRequest="40" Padding="10">
+                <Entry Placeholder="Password" PlaceholderColor="White" FontFamily="serif"/>
+            </Frame>
+            <Button Text="Send" TextColor="Black" CornerRadius="50" WidthRequest="200" BackgroundColor="#f3d02d" 
+		Margin="0,0,0,20" FontFamily="serif"/>
+        </StackLayout>
+
+Forgot.xaml.cs
+
+public partial class Forgot : ContentPage
+    {
+        public Forgot()
+        {
+            InitializeComponent();
+        }
+
+        async private void ImageButton_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SignIn());
+        }
+    }
+
+
+Dans le contentPage de toutes les autres pages mettez ( BackgroundColor="#242c39" NavigationPage.HasNavigationBar="False" )

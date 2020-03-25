@@ -1,0 +1,33 @@
+MainPage.xaml:
+
+ <StackLayout Padding="20" Spacing="10" Orientation="Vertical" VerticalOptions="End">
+        <Label Text="Snap and Share every moments" TextColor="White" FontSize="40" FontFamily="sans-serif" WidthRequest="200" HorizontalOptions="Start" FontAttributes="Bold"/>
+        <StackLayout Spacing="15" >
+            <Button Text="Log In" TextColor="Black" CornerRadius="50" WidthRequest="200" BackgroundColor="White" Clicked="Button_Clicked" Margin="0,0,0,20" FontFamily="serif"/>
+            <Button Text="Sign Up" TextColor="Black" CornerRadius="50" WidthRequest="200" BackgroundColor="#f3d02d" Clicked="Button_Clicked_1" Margin="0,0,0,20" FontFamily="serif"/>
+        </StackLayout>
+    </StackLayout>
+
+
+MainPage.xaml.cs
+
+public MainPage()
+        {
+            InitializeComponent();
+        }
+
+        async private void Button_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SignIn());
+        }
+
+        async private void Button_Clicked_1(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SignUp());
+        }
+
+
+
+Dans le contentPge du MainPage mettez (  BackgroundImageSource="cple" NavigationPage.HasNavigationBar="False" )
+
+

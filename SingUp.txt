@@ -1,0 +1,44 @@
+SignUp.xaml
+
+<StackLayout Padding="20" Spacing="25">
+            <ImageButton Source="fleche" Aspect="AspectFit" HeightRequest="30" WidthRequest="30" HorizontalOptions="Start" Clicked="ImageButton_Clicked"/>
+
+            <Label Text="Create account" FontSize="25" FontAttributes="Bold" TextColor="White" FontFamily="serif"/>
+
+            <StackLayout Orientation="Vertical" Spacing="10" VerticalOptions="Center">
+                <Frame BackgroundColor="#505460" CornerRadius="50" HeightRequest="40" Padding="10">
+                    <Entry Placeholder="Username" PlaceholderColor="White" FontFamily="serif"/>
+                </Frame>
+                <Frame BackgroundColor="#505460" CornerRadius="50" HeightRequest="40" Padding="10">
+                    <Entry Placeholder="Email" PlaceholderColor="White" FontFamily="serif"/>
+                </Frame>
+                <Frame BackgroundColor="#505460" CornerRadius="50" HeightRequest="40" Padding="10">
+                    <Entry Placeholder="Phone" PlaceholderColor="White" FontFamily="serif"/>
+                </Frame>
+                <Frame BackgroundColor="#505460" CornerRadius="50" HeightRequest="40" Padding="10">
+                    <Entry Placeholder="Password" PlaceholderColor="White" FontFamily="serif"/>
+                </Frame>
+            </StackLayout>
+            <Button Text="Sign Up" TextColor="Black" CornerRadius="50" WidthRequest="200" BackgroundColor="#f3d02d" Margin="0,0,0,20" FontFamily="serif"/>
+
+            <Label Text="by clicking signUp you agree to the following terms and conditions without reservations" HorizontalOptions="Center" 
+                   WidthRequest="270" FontSize="16" TextColor="Gray" FontFamily="serif"/>
+
+        </StackLayout>
+
+SignUp.xaml.cs
+
+public partial class SignUp : ContentPage
+    {
+        public SignUp()
+        {
+            InitializeComponent();
+        }
+
+        async private void ImageButton_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new MainPage());
+        }
+    }
+
+Dans le contentPage de toutes les autres pages mettez ( BackgroundColor="#242c39" NavigationPage.HasNavigationBar="False" )
