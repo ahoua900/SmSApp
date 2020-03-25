@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\bin\Debug\netstandard2.0\AOAKSmsCSharp.deps.json
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\bin\Debug\netstandard2.0\AOAKSmsCSharp.dll
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\bin\Debug\netstandard2.0\ref\AOAKSmsCSharp.dll
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\bin\Debug\netstandard2.0\AOAKSmsCSharp.pdb
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\AOAKSmsCSharp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\Forgot.xaml.g.cs
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\SignIn.xaml.g.cs
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\SignUp.xaml.g.cs
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\AOAKSmsCSharp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\AOAKSmsCSharp.AssemblyInfo.cs
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\AOAKSmsCSharp.dll
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\ref\AOAKSmsCSharp.dll
+C:\Users\HP\Desktop\Team C#\TaiSmSApp3_20-master\AOAKSmsCSharp\AOAKSmsCSharp\obj\Debug\netstandard2.0\AOAKSmsCSharp.pdb
