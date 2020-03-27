@@ -13,7 +13,7 @@
                      BackgroundColor="#242c39">
             <ImageButton Source="LeftDirectionBack"
                          Aspect="AspectFit"
-                         HeightRequest=""
+                        
                          WidthRequest="30"
                          HorizontalOptions="Start"
                          Clicked="ImageButton_Clicked"
@@ -37,7 +37,7 @@
                    Padding="15,8,8,0">
                 <Renderers:CustomEntry Placeholder="Email"
                                        PlaceholderColor="DarkGray"
-                                       FontFamily="serif"/>
+                                       FontFamily="serif" x:Name="email"/>
             </Frame>
             <Button Text="Send"
                     TextColor="Black"
@@ -46,7 +46,13 @@
                     BackgroundColor="#f3d02d" 
                     Margin="0,22,0,20"
                     FontFamily="serif"
-                    FontSize="Subtitle"/>
+                    FontSize="Subtitle" 
+                    Clicked="Button_Clicked"/>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Votre mot de passe est : " TextColor="White" FontSize="15"/>
+                <Label Text=" " TextColor="Green" FontSize="20" x:Name="pull"/>
+            </StackLayout>
+           
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

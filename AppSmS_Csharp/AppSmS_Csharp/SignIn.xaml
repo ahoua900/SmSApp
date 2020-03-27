@@ -30,7 +30,7 @@
                        Padding="15,8,8,0">
                     <Renderers:CustomEntry Placeholder="Email" 
                                            PlaceholderColor="DarkGray"
-                                           FontFamily="serif"/>
+                                           FontFamily="serif" x:Name="email"/>
                 </Frame>
                 <Frame BackgroundColor="#505460"
                        CornerRadius="50" 
@@ -38,8 +38,9 @@
                        Padding="15,8,8,0">
                     <Renderers:CustomEntry Placeholder="Password" 
                                            PlaceholderColor="DarkGray" 
-                                           FontFamily="serif"/>
+                                           FontFamily="serif" x:Name="password"/>
                 </Frame>
+               
             </StackLayout>
             <Button Text="Log In" 
                     TextColor="Black"
@@ -48,8 +49,10 @@
                     BackgroundColor="#f3d02d" 
                     Margin="0,22,0,20"
                     FontFamily="serif"
-                    FontSize="Subtitle"/>
-
+                    FontSize="Subtitle"
+                    Clicked="Button_Clicked_1"/>
+            <Label Text=" " TextColor="Red" HorizontalOptions="Center" x:Name="error" />
+            <Label Text=" " TextColor="Green" HorizontalOptions="Center" x:Name="correct" />
             <Button Text="Forgot your password?" 
                     TextColor="White"
                     BackgroundColor="Transparent" 
