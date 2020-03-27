@@ -50,7 +50,7 @@
                     FontFamily="serif"
                     FontSize="Subtitle"/>
 
-            <Button Text="Forgot password?" 
+            <Button Text="Forgot your password?" 
                     TextColor="White"
                     BackgroundColor="Transparent" 
                     HorizontalOptions="Center"
