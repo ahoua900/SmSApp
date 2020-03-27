@@ -3,25 +3,60 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:Renderers="clr-namespace:AppSmS_Csharp.Render"
              mc:Ignorable="d"
-             x:Class="AppSmS_Csharp.SignIn">
+             x:Class="AppSmS_Csharp.SignIn"
+             NavigationPage.HasNavigationBar="False">
     <ContentPage.Content>
-        <StackLayout Padding="20" Spacing="25">
-            <ImageButton Source="fleche" Aspect="AspectFit" HeightRequest="30" WidthRequest="30" HorizontalOptions="Start" Clicked="ImageButton_Clicked"/>
+        <StackLayout Padding="20" BackgroundColor="#242c39">
+            <ImageButton Source="LeftDirectionBack"
+                         Aspect="AspectFit" HeightRequest="30"
+                         WidthRequest="30"
+                         HorizontalOptions="Start"
+                         Clicked="ImageButton_Clicked"
+                         BackgroundColor="Transparent"/>
 
-            <Label Text="Welcome back" FontSize="25" FontAttributes="Bold" TextColor="White" FontFamily="serif"/>
+            <Label Text="Welcome back" 
+                   FontSize="30" 
+                   FontAttributes="Bold" 
+                   TextColor="White"
+                   FontFamily="serif"
+                   Margin="0,28,0,28"/>
 
             <StackLayout Orientation="Vertical" Spacing="10" VerticalOptions="Center">
-                <Frame BackgroundColor="#505460" CornerRadius="50" HeightRequest="40" Padding="10">
-                    <Entry Placeholder="Email" PlaceholderColor="White" FontFamily="serif"/>
+                <Frame BackgroundColor="#505460"
+                       CornerRadius="50" 
+                       HeightRequest="38"
+                       Padding="15,8,8,0">
+                    <Renderers:CustomEntry Placeholder="Email" 
+                                           PlaceholderColor="DarkGray"
+                                           FontFamily="serif"/>
                 </Frame>
-                <Frame BackgroundColor="#505460" CornerRadius="50" HeightRequest="40" Padding="10">
-                    <Entry Placeholder="Password" PlaceholderColor="White" FontFamily="serif"/>
+                <Frame BackgroundColor="#505460"
+                       CornerRadius="50" 
+                       HeightRequest="38"
+                       Padding="15,8,8,0">
+                    <Renderers:CustomEntry Placeholder="Password" 
+                                           PlaceholderColor="DarkGray" 
+                                           FontFamily="serif"/>
                 </Frame>
             </StackLayout>
-            <Button Text="Log In" TextColor="Black" CornerRadius="50" WidthRequest="200" BackgroundColor="#f3d02d" Margin="0,0,0,20" FontFamily="serif"/>
+            <Button Text="Log In" 
+                    TextColor="Black"
+                    CornerRadius="50"
+                    WidthRequest="200"
+                    BackgroundColor="#f3d02d" 
+                    Margin="0,22,0,20"
+                    FontFamily="serif"
+                    FontSize="Subtitle"/>
 
-            <Button Text="FOrgot password?" TextColor="White" BackgroundColor="Transparent" HorizontalOptions="Center" TranslationY="10" Clicked="Button_Clicked" FontFamily="serif"/>
+            <Button Text="Forgot password?" 
+                    TextColor="White"
+                    BackgroundColor="Transparent" 
+                    HorizontalOptions="Center"
+                    TranslationY="10" 
+                    Clicked="Button_Clicked"
+                    FontFamily="serif"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

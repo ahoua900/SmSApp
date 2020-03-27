@@ -63,6 +63,8 @@ C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csha
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\res\drawable\leftdirectionback.png
+C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\res\drawable\teamworking.jpg
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\uploadflags.txt
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\resolvedassemblies.hash
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\android\assets\AppSmS_Csharp.Android.dll
@@ -427,6 +429,7 @@ C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csha
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\android\src\crc643afd24b6f1f1b293\MainActivity.java
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\android\src\crc640041b8688f90b3b5\CustomEntryOnAndroid.java
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
@@ -470,6 +473,3 @@ C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csha
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\res\drawable\leftdirectionback.png
-C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\res\drawable\teamworking.jpg
-C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\android\src\crc640041b8688f90b3b5\CustomEntryOnAndroid.java
