@@ -472,3 +472,4 @@ C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csha
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\res\drawable\leftdirectionback.png
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\res\drawable\teamworking.jpg
+C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp.Android\obj\Debug\90\android\src\crc640041b8688f90b3b5\CustomEntryOnAndroid.java
