@@ -598,23 +598,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\HP\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
       "projectName": "AppSmS_Csharp",
       "projectPath": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
+      "projectName": "AppSmS_Csharp",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\obj\\",
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
