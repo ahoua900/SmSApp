@@ -1,0 +1,12 @@
+Chaque using de ces codes doivent doivent etre specifier pour une bonne coordination
+
+Code couleur du jaune #f3d02d
+
+
+Code couleur du bacground noir #242c39
+
+
+code couleur des entry #505460
+
+
+code couleur background 3,4 pages line 4 #242c39
