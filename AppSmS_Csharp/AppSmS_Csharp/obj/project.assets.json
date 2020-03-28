@@ -63,6 +63,18 @@
           "build/Xamarin.Forms.props": {},
           "build/Xamarin.Forms.targets": {}
         }
+      },
+      "Xamarin.Forms.PancakeView/1.3.7": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.6.0.220655"
+        },
+        "compile": {
+          "lib/netstandard2.0/Xamarin.Forms.PancakeView.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.PancakeView.dll": {}
+        }
       }
     }
   },
@@ -557,33 +569,68 @@
         "xamarin.forms.4.3.0.908675.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "Xamarin.Forms.PancakeView/1.3.7": {
+      "sha512": "b6g3lVHV764yU4BRPzb1bvHT4G9xSQAXIPGtWQvryzLgU2qoqvnboiL5caJfLLFYXPtDy5ptoRD/TzC5i3VF3w==",
+      "type": "package",
+      "path": "xamarin.forms.pancakeview/1.3.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid81/Xamarin.Forms.PancakeView.dll",
+        "lib/monoandroid90/Xamarin.Forms.PancakeView.dll",
+        "lib/netstandard1.0/Xamarin.Forms.PancakeView.dll",
+        "lib/netstandard2.0/Xamarin.Forms.PancakeView.dll",
+        "lib/uap10.0.16299/Xamarin.Forms.PancakeView.dll",
+        "lib/uap10.0.16299/Xamarin.Forms.PancakeView.pri",
+        "lib/xamarinios10/Xamarin.Forms.PancakeView.dll",
+        "xamarin.forms.pancakeview.1.3.7.nupkg.sha512",
+        "xamarin.forms.pancakeview.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
       "Xamarin.Essentials >= 1.3.1",
-      "Xamarin.Forms >= 4.3.0.908675"
+      "Xamarin.Forms >= 4.3.0.908675",
+      "Xamarin.Forms.PancakeView >= 1.3.7"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Olivier Kra\\.nuget\\packages\\": {},
+<<<<<<< HEAD
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
       "projectName": "AppSmS_Csharp",
-      "projectPath": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
-      "packagesPath": "C:\\Users\\Olivier Kra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\obj\\",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
+      "projectName": "AppSmS_Csharp",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\obj\\",
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Olivier Kra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -621,6 +668,10 @@
           "Xamarin.Forms": {
             "target": "Package",
             "version": "[4.3.0.908675, )"
+          },
+          "Xamarin.Forms.PancakeView": {
+            "target": "Package",
+            "version": "[1.3.7, )"
           }
         },
         "imports": [
@@ -633,7 +684,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -19,7 +19,7 @@
             Padding="20" Spacing="10"
                      Orientation="Vertical"
                      VerticalOptions="End">
-            <Label Text="Just for group C# to mement" 
+            <Label Text="Just for group C# to moment" 
                TextColor="White" FontSize="40"
                FontFamily="sans-serif"
                WidthRequest="200"

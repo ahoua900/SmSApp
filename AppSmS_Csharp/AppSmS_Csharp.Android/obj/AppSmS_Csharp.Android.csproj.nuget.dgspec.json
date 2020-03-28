@@ -1,24 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj": {}
+<<<<<<< HEAD
+    "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj": {
+    "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj",
         "projectName": "AppSmS_Csharp.Android",
-        "projectPath": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj",
-        "packagesPath": "C:\\Users\\Olivier Kra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp.Android\\obj\\",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.Android\\obj\\",
+=======
+    "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj",
+        "projectName": "AppSmS_Csharp.Android",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp.Android\\AppSmS_Csharp.Android.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp.Android\\obj\\",
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Olivier Kra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +50,13 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj": {
-                "projectPath": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj"
+<<<<<<< HEAD
+              "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj"
+=======
+              "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj"
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
               }
             }
           }
@@ -54,20 +77,35 @@
         }
       }
     },
-    "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj": {
+<<<<<<< HEAD
+    "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
         "projectName": "AppSmS_Csharp",
-        "projectPath": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
-        "packagesPath": "C:\\Users\\Olivier Kra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\obj\\",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp\\obj\\",
+=======
+    "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
+        "projectName": "AppSmS_Csharp",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\obj\\",
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Olivier Kra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -105,6 +143,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.3.0.908675, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[1.3.7, )"
             }
           },
           "imports": [
@@ -117,7 +159,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

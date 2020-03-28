@@ -1,2 +1,6 @@
-AdbTarget=-s 0260010780500219
+<<<<<<< HEAD
+AdbTarget=-s 920129f6b4a2c44a
+=======
+AdbTarget=-s 038811192F009013
+>>>>>>> 973f13180737aa39d249144b20ade7e8d4b76f3b
 AdbOptions=

@@ -40,7 +40,7 @@
                     <Renderers:CustomEntry
                         Placeholder="Email" 
                         PlaceholderColor="DarkGray" 
-                        FontFamily="serif"/>
+                        FontFamily="serif"  x:Name="email"/>
                 </Frame>
                 <Frame  BackgroundColor="#505460"
                        CornerRadius="50" 
@@ -50,7 +50,7 @@
                     <Renderers:CustomEntry 
                         Placeholder="Phone" 
                         PlaceholderColor="DarkGray"
-                        FontFamily="serif"/>
+                        FontFamily="serif" x:Name="phone"/>
                 </Frame>
                 <Frame  BackgroundColor="#505460"
                        CornerRadius="50" 
@@ -58,7 +58,7 @@
                        Padding="15,8,8,0">
                     <Renderers:CustomEntry Placeholder="Password" 
                                            PlaceholderColor="DarkGray"
-                                           FontFamily="serif"/>
+                                           FontFamily="serif"  x:Name="password"/>
                 </Frame>
             </StackLayout>
             <Button Text="Sign Up" 
@@ -68,7 +68,9 @@
                     BackgroundColor="#f3d02d" 
                     Margin="0,22,0,20"
                     FontFamily="serif"
-                    FontSize="Subtitle"/>
+                    FontSize="Subtitle" Clicked="Button_Clicked"/>
+            <Label Text=" " TextColor="Red" HorizontalOptions="Center" x:Name="error" />
+            <Label Text=" " TextColor="Green" HorizontalOptions="Center" x:Name="correct" />
 
             <Label Text="by clicking signUp you agree to the following terms and conditions without reservations" HorizontalOptions="Center" 
                    TextColor="Gray" 
