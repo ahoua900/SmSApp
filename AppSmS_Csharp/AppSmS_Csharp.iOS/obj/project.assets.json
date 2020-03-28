@@ -1016,24 +1016,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Olivier Kra\\.nuget\\packages\\": {},
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp.iOS\\AppSmS_Csharp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp.iOS\\AppSmS_Csharp.iOS.csproj",
       "projectName": "AppSmS_Csharp.iOS",
-      "projectPath": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp.iOS\\AppSmS_Csharp.iOS.csproj",
-      "packagesPath": "C:\\Users\\Olivier Kra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp.iOS\\obj\\",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp.iOS\\AppSmS_Csharp.iOS.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Olivier Kra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1047,8 +1047,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj": {
-              "projectPath": "C:\\Users\\Olivier Kra\\source\\repos\\ProjetGroupC#\\SmSApp\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj"
+            "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\SmSApp2\\AppSmS_Csharp\\AppSmS_Csharp\\AppSmS_Csharp.csproj"
             }
           }
         }

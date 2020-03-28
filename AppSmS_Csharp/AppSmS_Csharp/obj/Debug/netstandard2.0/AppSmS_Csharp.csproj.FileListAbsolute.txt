@@ -14,3 +14,20 @@ C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csha
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\ref\AppSmS_Csharp.dll
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\AppSmS_Csharp.pdb
 C:\Users\Olivier Kra\source\repos\ProjetGroupC#\SmSApp\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\AppSmS_Csharp.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\AppSmS_Csharp.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\Forgot.xaml.g.cs
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\SignIn.xaml.g.cs
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\SignUp.xaml.g.cs
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\AppSmS_Csharp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\AppSmS_Csharp.AssemblyInfo.cs
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\AppSmS_Csharp.dll
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\ref\AppSmS_Csharp.dll
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\AppSmS_Csharp.pdb
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\bin\Debug\netstandard2.0\AppSmS_Csharp.deps.json
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\bin\Debug\netstandard2.0\AppSmS_Csharp.dll
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\bin\Debug\netstandard2.0\ref\AppSmS_Csharp.dll
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\bin\Debug\netstandard2.0\AppSmS_Csharp.pdb
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\source\repos\SmSApp2\AppSmS_Csharp\AppSmS_Csharp\obj\Debug\netstandard2.0\Home.xaml.g.cs

@@ -7,13 +7,13 @@
              mc:Ignorable="d"
              x:Class="AppSmS_Csharp.Forgot"
              NavigationPage.HasNavigationBar="False">
-    <ContentPage.Content>
+    <ScrollView>
 
         <StackLayout Padding="20"
                      BackgroundColor="#242c39">
             <ImageButton Source="LeftDirectionBack"
                          Aspect="AspectFit"
-                         HeightRequest=""
+                         HeightRequest="30"
                          WidthRequest="30"
                          HorizontalOptions="Start"
                          Clicked="ImageButton_Clicked"
@@ -48,5 +48,5 @@
                     FontFamily="serif"
                     FontSize="Subtitle"/>
         </StackLayout>
-    </ContentPage.Content>
+    </ScrollView>
 </ContentPage>
